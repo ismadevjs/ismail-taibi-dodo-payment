@@ -1,6 +1,6 @@
 {
-    "name": "dodopayments/laravel-dodopayments",
-    "description": "Official Laravel integration for DodoPayments - Accept payments with ease",
+    "name": "dodopayments-ismail-taibi/laravel-dodopayments",
+    "description": "Official Laravel integration for DodoPayments - Accept payments with ease by ismail taibi",
     "keywords": [
         "laravel",
         "dodopayments",
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "DodoPayments",
-            "email": "[email protected]"
+            "name": "Ismail Taibi",
+            "email": "dergana.store@gmail.com"
         }
     ],
     "require": {
