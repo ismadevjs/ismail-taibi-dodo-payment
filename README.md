@@ -27,7 +27,7 @@ Official Laravel package for DodoPayments - Accept payments with ease in your La
 Install the package via Composer:
 
 ```bash
-composer require odopayments-ismail-taibi/laravel-dodopayments
+composer require dodopayments-ismail-taibi/laravel-dodopayments
 ```
 
 ### Publish Configuration
